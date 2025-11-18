@@ -6,3 +6,4 @@ def train_model(train_X, train_y, test_X, model):
     return prediction
 
 
+#voici la légère modif
