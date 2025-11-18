@@ -10,7 +10,7 @@ from preprocess_data import preprocess_data
 iris = pd.read_csv(r"C:\Users\lawan\TP_Git\InputData\Iris.csv")
 
 # Taille du test
-test_size = 0.3
+test_size = 0.4
 
 # Prétraitement
 train, test = preprocess_data(iris, test_size)
