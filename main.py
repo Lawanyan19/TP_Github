@@ -70,4 +70,5 @@ plt.ylabel("Précision (Accuracy)")
 plt.legend(loc="best")
 plt.grid(True)
 plt.show()
+print("Hello thomas")
  
